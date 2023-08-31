@@ -1,5 +1,12 @@
 # 💫 About Me:
-I'm currently working on Flutter
+
+👨🏽‍💻 Undergrad student at Comsats University Islamabad
+
+🌱 I’m currently working as a Flutter Developer and UI/UX designer. 
+
+🤔 Always eager to learn new technologies and pushing limits.
+
+📫 Contact me at theartistsam47@gmail.com
 
 
 ## 🌐 Socials:
