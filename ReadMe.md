@@ -103,15 +103,3 @@
   </td>
 </tr>
 </table>
-
-<h1 align="center" style="border:none;">✍️ Random Dev Quote</h1>
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical" alt="Quote" />
-</div>
-
----
-
-[![](https://visitcount.itsvg.in/api?id=theArtistSam&icon=2&color=0)](https://visitcount.itsvg.in)
-
----
