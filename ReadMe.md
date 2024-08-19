@@ -1,9 +1,11 @@
----
-<h1 align="center">👋 Hi, I'm Abdullah Mehdi</h1>
+![MasterHead](https://private-user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjQwMjk3MTQsIm5iZiI6MTcyNDAyOTQxNCwicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA1MjQtMGM3ZWI2ZWQtNjYzYi00Y2U0LWJmYmQtMTgyMzlhMzhiYTFiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA4MTklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwODE5VDAxMDMzNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWQ2ZTAxMzAwYTZhMjc5OWU0ZjY2MTI5ZmNjNDEyN2FmMmQ3ODdiNTNlNzYzNTZmNGJlNWMyZjk5ZDA2YmVjNGEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.yWOWniBdFRqYHXjc4_kBhp0A3FCxh-Qa7lLrAho4Vm0)
+]
+<h1 align="center">👋 "Hello World"</h1>
 
 
-<h3 align="center">Passionate Software Engineer & UI/UX Designer</h3>
-
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=I'm+Abdullah+Mehdi;I+am+a+Software+Engineer+and+UI/UX+Designer"></a>
+</p>
 
 
 <table>
@@ -19,12 +21,11 @@
     </td>
     <td>
       <a target="_blank" align="center">
-        <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+        <img align="right" top="500" height="280" width="800" alt="GIF" src="https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif">
       </a>
     </td>
   </tr>
 </table>
-
 
 
 <h1 align="center" style="border:none;">💻 Tech Stack</h1>
@@ -56,20 +57,7 @@
         <img src="https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi" alt="FastAPI">
       </p>
     </td>
-  </tr>
-  <tr>
-    <td>
-      <h3>🛠️ Tools & Frameworks</h3>
-      <p>
-        <img src="https://img.shields.io/badge/firebase-a08021?style=plastic&logo=firebase&logoColor=ffcd34" alt="Firebase">
-        <img src="https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens" alt="JWT">
-        <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white" alt="NPM">
-        <img src="https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white" alt="Postman">
-        <img src="https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white" alt="Git">
-        <img src="https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white" alt="GitHub">
-      </p>
-    </td>
-    <td>
+<td>
       <h3>🎨 Design & Prototyping</h3>
       <p>
         <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=plastic&logo=Adobe%20XD&logoColor=#FF61F6" alt="Adobe XD">
@@ -79,6 +67,7 @@
       </p>
     </td>
   </tr>
+  
 </table>
 
 <h1 align="center" style="border:none;">📊 GitHub Stats</h1>
