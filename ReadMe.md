@@ -1,5 +1,4 @@
 ![MasterHead](https://private-user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjQwMjk3MTQsIm5iZiI6MTcyNDAyOTQxNCwicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA1MjQtMGM3ZWI2ZWQtNjYzYi00Y2U0LWJmYmQtMTgyMzlhMzhiYTFiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA4MTklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwODE5VDAxMDMzNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWQ2ZTAxMzAwYTZhMjc5OWU0ZjY2MTI5ZmNjNDEyN2FmMmQ3ODdiNTNlNzYzNTZmNGJlNWMyZjk5ZDA2YmVjNGEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.yWOWniBdFRqYHXjc4_kBhp0A3FCxh-Qa7lLrAho4Vm0)
-]
 <h1 align="center">👋 "Hello World"</h1>
 
 
@@ -21,7 +20,7 @@
     </td>
     <td>
       <a target="_blank" align="center">
-        <img align="right" top="500" height="280" width="800" alt="GIF" src="https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif">
+        <img align="right" top="500" height="280" width="400" alt="GIF" src="https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif">
       </a>
     </td>
   </tr>
