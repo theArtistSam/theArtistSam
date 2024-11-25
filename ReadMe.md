@@ -10,7 +10,7 @@
   <tr>
     <td>
       <ul>
-        <li>🌟 <strong>UI/UX Designer</strong> at <strong>Hareseca LLC</strong>strong>.</li>
+        <li>🌟 UI/UX Designer at <strong>Hareseca LLC</strong>.</li>
         <li>👩🏻‍💻 Majorly work as a <strong>Mobile App Developer</strong> and <strong>UI/UX Designer</strong>.</li>
         <li>💻 Experienced in developing <strong>mobile</strong> and <strong>web</strong> applications.</li>
         <li>🎨 Focused on crafting intuitive and engaging user interfaces.</li>
