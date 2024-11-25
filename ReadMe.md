@@ -10,7 +10,8 @@
   <tr>
     <td>
       <ul>
-        <li>🌟 Majorly work as a <strong>Mobile App Developer</strong> and <strong>UI/UX Designer</strong>.</li>
+        <li>🌟 <strong>UI/UX Designer</strong> at <strong>Hareseca LLC</strong>strong>.</li>
+        <li>👩🏻‍💻 Majorly work as a <strong>Mobile App Developer</strong> and <strong>UI/UX Designer</strong>.</li>
         <li>💻 Experienced in developing <strong>mobile</strong> and <strong>web</strong> applications.</li>
         <li>🎨 Focused on crafting intuitive and engaging user interfaces.</li>
         <li>💬 Ask me about <strong>Flutter & UI/UX</strong></li>
